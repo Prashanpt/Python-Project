@@ -23,7 +23,7 @@ This project explores and analyzes a large dataset of ultra-marathon races, focu
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 Used Seaborn and Matplotlib to create:
 
@@ -34,10 +34,10 @@ Used Seaborn and Matplotlib to create:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python (Pandas, NumPy)
 - Seaborn & Matplotlib for visualization
-- Jupyter Notebook for interactive analysis
+
 
 
